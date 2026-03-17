@@ -1,1 +1,1 @@
-![logo](images/bfr.gif)
+![logo](./images/bfr.gif)
