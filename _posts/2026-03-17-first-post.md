@@ -19,3 +19,10 @@ int main(){
     return 0;
 }
 ```
+<script src="https://utteranc.es/client.js"
+        repo="rimskyyamatov-lgtm/rimskyyamatov-lgtm.github.io"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
