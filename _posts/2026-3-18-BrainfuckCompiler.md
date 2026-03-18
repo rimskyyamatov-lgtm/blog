@@ -10,7 +10,7 @@ tags: [langage]
 
 さて、前回紹介したデモです。
 
-![demo](https://raw.githubusercontent.com/rimskyyamatov-lgtm/blog/main/images/brf.gif)
+![demo](https://raw.githubusercontent.com/rimskyyamatov-lgtm/blogimages/main/brf.gif)
 
 このデモです。ファイルの拡張子からなんとなく察せたかと思われますが、これはBrainfuckのプログラムです。  
 [Brainfuckとは](https://ja.wikipedia.org/wiki/Brainfuck)
