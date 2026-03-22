@@ -3,12 +3,12 @@ layout: post
 title: "Hello,World!を表示するシンプルなOS"
 date: 2026-03-22
 categories: [OS開発]
-tags: [C++, GRUB, OS, Program]
+tags: ["C++", GRUB, OS, Program]
 -----------------------
 
-# C++とGRUBで最小構成のOSを作る
+# "C++"とGRUBで最小構成のOSを作る
 ![demo](https://raw.githubusercontent.com/rimskyyamatov-lgtm/blogimages/main/HOS.png)
-今回は、**C++ + GRUB + NASM**を使って、
+今回は、**"C++" + GRUB + NASM**を使って、
 画面に「Hello, World!」を表示するだけの超シンプルなOSを作りました。
 githubでコードを公開予定です。
 
