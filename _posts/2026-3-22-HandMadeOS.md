@@ -178,3 +178,7 @@ QEMUで動かすと普通に動くけど、
 これだけで「OSっぽいもの」は作れる。
 
 ---
+### 追記
+公開しました
+[ここにあります。]([https://ja.wikipedia.org/wiki/Brainfuck](https://github.com/rimskyyamatov-lgtm/HOS/))
+readmeの通りに実行してください
