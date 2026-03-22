@@ -4,7 +4,7 @@ title: "Hello,World!を表示するシンプルなOS"
 date: 2026-03-22
 categories: [OS開発]
 tags: ["C++", GRUB, OS, Program]
------------------------
+---
 
 # "C++"とGRUBで最小構成のOSを作る
 ![demo](https://raw.githubusercontent.com/rimskyyamatov-lgtm/blogimages/main/HOS.png)
