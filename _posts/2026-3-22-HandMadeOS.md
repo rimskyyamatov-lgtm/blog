@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Hello,World!を表示するシンプルなOS"
 date: 2026-03-22
