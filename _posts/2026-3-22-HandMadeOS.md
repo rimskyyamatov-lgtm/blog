@@ -179,6 +179,6 @@ QEMUで動かすと普通に動くけど、
 
 ---
 ### 追記
-公開しました
+公開しました。
 [ここにあります。](https://github.com/rimskyyamatov-lgtm/HOS/)
 readmeの通りに実行してください
