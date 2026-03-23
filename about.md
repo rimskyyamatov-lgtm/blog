@@ -18,5 +18,5 @@ title: "About"
 [note](note.com/rimsky_2672)
 化学とか(予定)
 
-[github](https://github.com/rimskyyamatov-lgtm)
+[github](https://github.com/SrinivasaRimskyYamatov)
 コード公開
