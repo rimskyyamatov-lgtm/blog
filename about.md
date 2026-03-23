@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## 自己紹介
-<img src="https://raw.githubusercontent.com/rimskyyamatov-lgtm/blogimages/main/STF2.png" width="50"
+<img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/STF2.png" width="50"
      style="border-radius:50%; box-shadow:0 0 10px #000;">
      Srinivasa.Rimsky.Yamatov
 - 言語開発好き
