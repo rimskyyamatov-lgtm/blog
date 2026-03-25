@@ -44,7 +44,7 @@ MBOOT_CHECKSUM equ -(MBOOT_MAGIC + MBOOT_FLAGS)
 ```
 
 これは**Multibootヘッダ**です。
-GRUBに「このOSはMultiboot対応だよ」と伝えるためのもの。
+GRUBに「このOSはMultiboot対応」と伝えるためのもの。
 
 ---
 
@@ -54,7 +54,7 @@ _start:
     call kernel_main
 ```
 
-ここが一番重要👇
+ここが一番重要
 
 * `esp` にスタックの位置を設定
 * C++の `kernel_main` を呼び出す
@@ -85,7 +85,7 @@ cli
 unsigned short* terminal_buffer = (unsigned short*) 0xB8000;
 ```
 
-ここめちゃ重要👇
+ここがとても重要👇
 
 👉 `0xB8000` はテキストモードのVRAM
 
@@ -114,13 +114,13 @@ const char* str = "Hello,World!";
 
 この文字列をループで書き込むことで、
 
-👉 画面に直接表示される
+→画面に直接表示される
 
 ---
 
 ## 重要ポイントまとめ
 
-このOSの本質👇
+このOSの本質は
 
 * OSなのにprintfもstdも使ってない
 * 画面出力は全部メモリ直書き
@@ -131,7 +131,7 @@ const char* str = "Hello,World!";
 
 ## ここから発展できること
 
-この状態からいくらでも進化できる👇
+この状態からいくらでも進化できる
 
 * カーソル制御
 * キーボード入力
@@ -143,11 +143,11 @@ const char* str = "Hello,World!";
 
 ## 感想
 
-めちゃくちゃシンプルだけど、
+とてもシンプルであるが、
 
 👉 「OSってこうやって動いてるんだ」
 
-ってのが体感できる構成。
+ということが体感できる構成。
 
 特に
 
