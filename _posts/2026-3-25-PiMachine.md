@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "円周率を超高速に計算する仕組み（Chudnovsky法とBinary Splitting）"
+title: "円周率を超高速に計算する仕組み"
 date: 2026-03-25
 categories: [数学, アルゴリズム, 高速化]
 ---
