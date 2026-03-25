@@ -4,7 +4,7 @@ title: "Rimsky Blog | 技術ブログ・プログラミング記録"
 description: "Rimsky Blogではプログラミングや技術に関する学習記録や解説を発信しています。"
 ---
 
-# Rimsky Blog
+## Rimsky Blog
 
 このサイトでは、プログラミングや技術に関する情報を発信しています。
 
