@@ -13,6 +13,7 @@ title: "About"
 - かなり扱える言語-C++ Ruby Basic
 - 少しは扱える言語-JavaScript nasm python gas
 - 使いたい、頑張っている言語-Haskell Lua Rust
+
 ---
 中二病と言われたのでアイコンの説明
 
