@@ -96,3 +96,18 @@ nasmを使うことで極限まで無駄を省いた実装が可能
 ループ処理の仕組み
 
 実際のコンパイル処理の流れ
+
+#### コメント
+
+<script src="https://giscus.app/client.js"
+        data-repo="srinivasarimskyyamatov/blog"
+        data-repo-id="R_kgDORpQ29Q"
+        data-category="General"
+        data-category-id="DIC_kwDORpQ29c4C6cPA"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-theme="dark"
+        data-lang="ja"
+        crossorigin="anonymous"
+        async>
+</script>
