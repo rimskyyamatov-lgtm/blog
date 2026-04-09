@@ -147,3 +147,18 @@ Chudnovsky法は以下の理由で高速である。
 これらを組み合わせることで、非常に大きな桁数の円周率を効率的に求めることができる。
 ## ソース
 今回は[ここ](https://github.com/SrinivasaRimskyYamatov/Core-Designated-Pi/)にソースがあります。
+
+#### コメント
+
+<script src="https://giscus.app/client.js"
+        data-repo="srinivasarimskyyamatov/blog"
+        data-repo-id="R_kgDORpQ29Q"
+        data-category="General"
+        data-category-id="DIC_kwDORpQ29c4C6cPA"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-theme="dark"
+        data-lang="ja"
+        crossorigin="anonymous"
+        async>
+</script>
