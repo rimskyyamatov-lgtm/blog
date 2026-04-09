@@ -31,18 +31,3 @@ title: "About"
 
 [GitHub](https://github.com/SrinivasaRimskyYamatov)
 コード公開
-
-#### コメント
-
-<script src="https://giscus.app/client.js"
-        data-repo="srinivasarimskyyamatov/blog"
-        data-repo-id="R_kgDORpQ29Q"
-        data-category="General"
-        data-category-id="DIC_kwDORpQ29c4C6cPA"
-        data-mapping="pathname"
-        data-reactions-enabled="1"
-        data-theme="dark"
-        data-lang="ja"
-        crossorigin="anonymous"
-        async>
-</script>
