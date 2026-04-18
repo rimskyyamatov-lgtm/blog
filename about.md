@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## プロフィール
-<img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/newtf.png" width="50"
+<img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/newtf2.png" width="50"
      style="border-radius:50%; box-shadow:0 0 10px #000;">
      Srinivasa.Rimsky.Yamatov(Rimsky.Hejlsberg)
 - 中学生
