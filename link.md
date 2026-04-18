@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Link"
+---
 [Home](http://home.rimsky.f5.si)
 ホームページ
 
