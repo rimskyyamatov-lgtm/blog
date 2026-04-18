@@ -5,8 +5,6 @@ title: "Link"
 
 <style>
 .link-container {
-  display: grid;
-  gap: 14px;
   max-width: 500px;
   margin: 0 auto;
 }
@@ -14,35 +12,25 @@ title: "Link"
 .link-card {
   display: flex;
   align-items: center;
-  padding: 14px 18px;
-  border-radius: 14px;
+  padding: 10px 0;
   text-decoration: none;
-  color: #eee;
-  font-weight: 500;
-  background: #1e1e1e;
-  border: 1px solid #2a2a2a;
-  transition: 0.2s;
+  color: #ddd;
+  border-bottom: 1px solid #333;
+  transition: 0.15s;
 }
 
 .link-card:hover {
-  transform: translateY(-2px);
-  background: #2a2a2a;
+  color: #fff;
+  border-color: #666;
 }
 
-/* 控えめアクセント */
-.home:hover { border-color: #4CAF50; }
-.youtube:hover { border-color: #ff5555; }
-.note:hover { border-color: #41C9B4; }
-.github:hover { border-color: #888; }
-
 .icon {
-  margin-right: 12px;
+  margin-right: 10px;
 }
 
 .icon img {
-  width: 22px;
-  height: 22px;
-  object-fit: contain;
+  width: 20px;
+  height: 20px;
 }
 
 .desc {
